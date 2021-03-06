@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mayur_Picsum_Client</string>
+    <string name="sample_image_in_cell">sample_image_in_cell</string>
+    <string name="image_title">Image Title</string>
+    <string name="lorem_picsum">Lorem Picsum</string>
+</resources>
